@@ -1,0 +1,15 @@
+{
+  "name": "web-service--nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node web-server/app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
